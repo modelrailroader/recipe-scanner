@@ -1,0 +1,5 @@
+# Original credentials file
+credentials.php
+
+# PHPStorm project files
+.idea*
